@@ -1,5 +1,5 @@
 
-# 🎬 Flutter Admin Panel for Movie & Series Upload
+# 🎬 Flutter  for Movie & Series Upload
 
 This Flutter admin application allows you to upload **Movies** and **TV Series** with all associated metadata (cast, episodes, torrent links, trailer, etc.) into **Firestore**. It features a modular design, dark-themed UI, dynamic form fields, and proper validation — perfect for content managers and media library curators.
 
