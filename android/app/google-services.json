@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757095061736",
+    "firebase_url": "https://moviflix-edb3d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "moviflix-edb3d",
+    "storage_bucket": "moviflix-edb3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757095061736:android:ba459540b48b5209d4915d",
+        "android_client_info": {
+          "package_name": "com.example.moviefliix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757095061736-8pret6avhlj002aubv0pj56rofufuutb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4a6NEjx4bJYY3-gnWBLUm_ZveJ1lcy54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757095061736-8pret6avhlj002aubv0pj56rofufuutb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
