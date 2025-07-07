@@ -28,37 +28,6 @@ This Flutter admin application allows you to upload **Movies** and **TV Series**
 
 ---
 
-## 📦 Folder Structure
-
-```bash
-lib/
-├── main.dart
-├── models/
-│   ├── movie.dart
-│   ├── series.dart
-│   ├── cast_member.dart
-│   ├── episode.dart
-│   └── episode_input_data.dart
-├── screens/
-│   ├── movie_page_screen.dart
-│   ├── upload_movie_screen.dart
-│   └── upload_series_screen.dart
-├── widgets/
-│   ├── custom_input_field.dart
-│   ├── cast_input_widget.dart
-│   ├── episode_input_widget.dart
-│   └── section_header.dart
-├── helpers/
-│   ├── movie_form_helper.dart
-│   └── series_form_helper.dart
-├── services/
-│   ├── movie_service.dart
-│   └── series_service.dart
-└── utils/
-    ├── validators.dart
-    └── snackbar_utils.dart
-```
-
 ---
 
 ## 🔧 Technologies
